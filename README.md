@@ -1,6 +1,6 @@
 # C Programming
 
-Welcome to my C Programming repository! 👋
+Welcome to my C Programming ! 👋
 
 I am a first-year B.Tech Computer Science Engineering student learning C programming and Data Structures and Algorithms (DSA).
 
@@ -13,10 +13,6 @@ I am a first-year B.Tech Computer Science Engineering student learning C program
 - Arrays and array problems
 - Searching and sorting algorithms
 - DSA practice problems
-
-## 🎯 My Goal
-
-My goal is to strengthen my programming fundamentals, improve my problem-solving skills, and prepare for coding competitions and technical placements.
 
 ## 💻 Language Used
 
