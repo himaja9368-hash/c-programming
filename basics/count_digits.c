@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//counting digits program 
 int main() {
     int num, count = 0;
 
