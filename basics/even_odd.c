@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//program to check a number is even or odd 
 int main() {
     int num;
 
