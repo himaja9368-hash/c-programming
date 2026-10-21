@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//fibonacci serires 
 int main() {
     int n;
     int first = 0, second = 1, next;
